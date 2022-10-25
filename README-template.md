@@ -20,6 +20,10 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ## Overview
 
+### view web site
+
+<a href="https://sebastian-sev1.github.io/homepage/">https://sebastian-sev1.github.io/homepage/</a>
+
 ### The challenge
 
 Users should be able to:
@@ -100,8 +104,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@sebastian-sev1](https://www.frontendmentor.io/profile/sebastian-sev1)
+- Twitter - [@sevastian__s](https://twitter.com/sevastian__s)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
